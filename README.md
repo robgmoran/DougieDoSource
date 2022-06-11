@@ -1,7 +1,7 @@
 # DougieDoSource
 Dougie DO! z80 source code and assets
 
-To help all new and existing Z80 coders, I've uploaed the full source code and assets for my ZX Spectrum Next game Dougie DO!
+To help all new and existing Z80 coders, I've uploaded the full source code and assets for my ZX Spectrum Next game Dougie DO!
 
 Game available at https://robgm.itch.io/dougie-do
 

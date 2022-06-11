@@ -5,7 +5,7 @@ To help all new and existing Z80 coders, I've uploaded the full source code and 
 
 Game available at https://robgm.itch.io/dougie-do
 
-Please feel free to reuse any of the code or assets. For reference the code was written using sjasmplus, but could be updated to use any other assembler.
+Please feel free to reuse any of the code or assets. For reference the code was written using sjasmplus, but could be updated to use another assembler.
 
 sjasmplus available at: https://github.com/z00m128/sjasmplus
 

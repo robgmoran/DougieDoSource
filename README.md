@@ -1,5 +1,5 @@
 # DougieDoSource
-Dougie DO! z80 source code and assets
+Dougie DO! Z80 source code and assets
 
 To help all new and existing Z80 coders, I've uploaded the full source code and assets for my ZX Spectrum Next game Dougie DO!
 

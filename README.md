@@ -3,9 +3,9 @@ Dougie DO! z80 source code and assets
 
 To help all new and existing Z80 coders, I've uploaed the full source code and assets for my ZX Spectrum Next game Dougie DO!
 
-Please feel free to reuse any of the code or assets.
+Please feel free to reuse any of the code or assets. For refernce the code was written using sjasmplus, but could be updated to use any other assembler.
 
-Special thanks to goes to the following people who provided the assets:
+Special thanks goes to the following people who provided the assets:
 
 Music - A Man in His Techo Shed
 

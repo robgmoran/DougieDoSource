@@ -11,10 +11,10 @@ sjasmplus available at: https://github.com/z00m128/sjasmplus
 
 Special thanks goes to the following people who provided the assets:
 
-Music - A Man in His Techo Shed
+Music - A Man in His Techo Shed - 
 https://amaninhistechnoshed.com/a-man-in-his-technoshed/
 
-Sprites - Emcee Flesher.
+Sprites - Emcee Flesher - 
 https://opengameart.org/users/emcee-flesher
 
 If you have any questions or comments, I can be contacted via:
